@@ -1,9 +1,8 @@
 ### Olá, eu sou a Jaqueline Reis! 👋
-
+##
 - 📚 Estudando HTML | CSS | JavaScript
 - 🌱 Tenho conhecimentos de Java e Automação de Testes
-
-
+##
 <div align="center">
   <a href="https://beacons.ai/jaquelinereiz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaquelinereiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
