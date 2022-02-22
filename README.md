@@ -8,14 +8,14 @@
   <a href="https://github.com/jaquelinereiz/github-readme-stats">
     <img
       align="center"
-      height="155"
+      height="145"
       src="https://github-readme-stats.vercel.app/api?username=jaquelinereiz&show_icons=true&theme=dracula"
     />
   </a>
     <a href="https://github.com/jaquelinereiz/github-readme-stats">
     <img
       align="center"
-      height="155"
+      height="145"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinereiz&layout=compact&theme=dracula"
     />
   </a>
