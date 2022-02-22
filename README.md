@@ -4,11 +4,22 @@
 - 🌱 Tenho conhecimentos em Html | Css | Java e Automação de Testes
 ##
 
-<div align="center">
-  <a href="https://beacons.ai/jaquelinereiz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaquelinereiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinereiz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="center">
+  <a href="https://github.com/jaquelinereiz/github-readme-stats">
+    <img
+      align="center"
+      height="155"
+      src="https://github-readme-stats.vercel.app/api?username=jaquelinereiz&show_icons=true&theme=dracula"
+    />
+  </a>
+    <a href="https://github.com/jaquelinereiz/github-readme-stats">
+    <img
+      align="center"
+      height="155"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinereiz&layout=compact&theme=dracula"
+    />
+  </a>
+</p>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
