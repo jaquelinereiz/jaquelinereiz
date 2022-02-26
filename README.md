@@ -4,7 +4,22 @@
 - 🌱 Tenho conhecimentos em Html | Css | Java e Automação de Testes
 ##
 
-
+<p align="center">
+  <a href="https://github.com/jaquelinereiz/github-readme-stats">
+    <img
+      align="center"
+      height="145"
+      src="https://github-readme-stats.vercel.app/api?username=jaquelinereiz&show_icons=true&theme=dracula"
+    />
+  </a>
+    <a href="https://github.com/jaquelinereiz/github-readme-stats">
+    <img
+      align="center"
+      height="145"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinereiz&layout=compact&theme=dracula"
+    />
+  </a>
+</p>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
