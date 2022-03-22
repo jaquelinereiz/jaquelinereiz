@@ -9,7 +9,7 @@
     <img
       align="center"
       height="145"
-      src="https://github-readme-stats.vercel.app/api?username=jaquelinereiz&show_icons=true&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=jaquelinereizz&show_icons=true&theme=dracula"
     />
   </a>
     <a href="https://github.com/jaquelinereiz/github-readme-stats">
