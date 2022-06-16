@@ -1,7 +1,7 @@
 ### Olá, eu sou a Jaqueline Reis! 👋
 ##
-- 📚 Estudando HTML | CSS | JavaScript
-- 🌱 Tenho conhecimentos em Html | Css | Java e Automação de Testes
+- 📚 Estudando desenvolvimento Full-Stack
+- 🌱 Tenho conhecimentos em HTML5 | CSS3 | JavaScript | Java e Autamação de Testes
 ##
 
 <p align="center">
