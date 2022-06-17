@@ -16,7 +16,7 @@
     <img
       align="center"
       height="145"
-      src=""
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinereiz&layout=compact&langs_count=7&theme=dracula"
       />
 </p>
   
