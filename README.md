@@ -1,7 +1,8 @@
 ### Olá, eu sou a Jaqueline Reis! 👋
 ##
-- 📚 Estudando desenvolvimento Full-Stack
-- 🌱 Tenho conhecimento em HTML5 | CSS3 | JavaScript | Java e Automação de Testes
+- 📚 Estudando desenvolvimento Full-Stack e Automação de Testes
+- 🌱 Tenho conhecimento em HTML5 | CSS3 | JavaScript | TypeScript | ReactJs | Angular | Java | C#
+- 👩‍💻 Estou aprendendo Automação de Testes web e mobile com Selenium IDE/WebDriver/GRID, Appium, Cucumber, SpecFlow, Page Objects, JUnit, NUnit e testes em containers com Selenium GRID e Docker nas linguagens Java e C#.
 ##
 
 <p align="center">
