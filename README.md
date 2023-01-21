@@ -1,8 +1,8 @@
 ### Olá, eu sou a Jaqueline Reis! 👋
 ##
-- 📚 Estudando desenvolvimento Full-Stack e Automação de Testes
-- 🌱 Tenho conhecimento em HTML5 | CSS3 | JavaScript | Java | C# | TypeScript | ReactJs | Angular
-- 👩‍💻 Estou aprendendo Automação de Testes web e mobile com Selenium IDE/WebDriver/GRID, Appium, Cucumber, SpecFlow, Page Objects, JUnit, NUnit e testes em containers com Selenium GRID e Docker nas linguagens Java e C#.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 👩‍💻 Analista de Qualidade na Stefanini Group
+
 ##
 
 <p align="center">
@@ -22,11 +22,11 @@
 </p>
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" hspace="5" title="Java">
-    <img align="center" alt="C#" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" hspace="5" title="C#">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" hspace="5" title="JavaScript">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" hspace="5" title="HTML">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" hspace="5" title="CSS">
+    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" hspace="3" title="Java">
+    <img align="center" alt="C#" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" hspace="3" title="C#">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" hspace="3" title="JavaScript">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" hspace="3" title="HTML">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" hspace="3" title="CSS">
     <img align="center" alt="Selenium" height="30" width="30" src="https://www.loadview-testing.com/wp-content/uploads/Selenium_Logo-1.png" hspace="6" title="Selenium">
     <img align="center" alt="JUnit" height="40" width="40" src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" hspace="6" title="JUnit">
     <img align="center" alt="Appium" height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" hspace="6" title="Appium">
