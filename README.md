@@ -20,7 +20,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinereiz&layout=compact&langs_count=7&theme=dracula"
       />
 </p>
-  
   <div style="display: inline_block" align="middle"><br>
     <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" hspace="3" title="Java">
     <img align="center" alt="C#" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" hspace="3" title="C#">
