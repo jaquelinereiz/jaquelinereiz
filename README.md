@@ -1,7 +1,7 @@
 ### Olá, eu sou a Jaqueline Reis! 👋
 ##
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 👩‍💻 Analista de Qualidade na Stefanini Group
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
 
 ##
 
