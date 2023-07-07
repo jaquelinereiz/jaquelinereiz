@@ -1,6 +1,6 @@
 ### Olá, eu sou a Jaqueline Reis! 👋
 ##
-- 👩‍💻 Analista de Qualidade na Stefanini Group
+- 👩‍💻 Analista de Qualidade I no Grupo Energisa
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 
 ##
